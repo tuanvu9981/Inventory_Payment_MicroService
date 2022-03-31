@@ -11,6 +11,10 @@
 
 * Architecture: Micro-Service
 
+* References: 
+    * Youtube: [Micro Service FreeCodeCamp](https://www.youtube.com/watch?v=Cy9fAvsXGZA&t=44s)
+    * Redis Stream: [Redis Stream Document](https://redis.io/docs/manual/data-types/streams/)
+
 * Illustation with draw.io: 
 <p align="center">
   <img src="Inventory & Payment.png" width="650" />
